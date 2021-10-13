@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, myself Mohit Ahirwal</h1>
+<h1 align="center">Hey there 👋, myself Mohit</h1>
 <h3 align="center">A 3rd year B.Tech Engineer by Education 😌 && Web Developer By profession 🤩.</h3>
 
 - 🌱 I’m currently learning **React Native** 
