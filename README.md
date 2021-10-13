@@ -1,5 +1,5 @@
 <h2 align="center"><i>Hey there, I'm </i>Mohit 🤝</h2> 
-<h3 align="center">A B.Tech Student, Enhancing as a Web Developer.</h3>
+<h3 align="center">B.Tech Student📚, who is Enhancing as a Web Developer👨‍💻.</h3>
 
 <h3 align="center">Connect with me (📲 || 💻) </h3>
 <p align="center">
