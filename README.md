@@ -1,5 +1,5 @@
 <h2 align="center"><i>Hey there, I'm </i>Mohit 🤝</h2> 
-<h3 align="center">A B.Tech Student, Enhancing skill's in Web Developer.</h3>
+<h3 align="center">A B.Tech Student, Enhancing as a Web Developer.</h3>
 
 - 🌱 I’m currently learning **React Native** 
 
