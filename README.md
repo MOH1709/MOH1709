@@ -1,3 +1,4 @@
+<div>
 <h2 align="center"><i>Hey there👋, myself Mohit</i> 🤝</h2> 
 <h3 align="center">I'm a B.Tech Student📚, who is Enhancing as a Web Developer👨‍💻.</h3>
 <div align="center" > <hr width="400" /> </div>
@@ -33,3 +34,4 @@
 &nbsp;&nbsp;  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;     
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
   </p>
+  </div>
