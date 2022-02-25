@@ -10,7 +10,7 @@
 <div align="center" > <hr width="400" /> </div>
 
 
-- 🌱 I’m currently exploring **React Native** 
+- 🌱 I’m currently exploring **React** 
 
 - 📫 How to reach me : **ahirwalmohit3216@gmail.com**
 
