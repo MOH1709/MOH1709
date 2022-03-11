@@ -1,4 +1,4 @@
-<h2 align="center"><i>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> , myself Mohit</i> <img src = "https://c.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" width="32px"></h2> 
+<h2 align="center"><i>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, myself Mohit</i> <img src = "https://c.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" width="32px"></h2> 
 <h3 align="center">I'm a B.Tech Student📚, who is Enhancing as a Web Developer👨‍💻</h3>
 
 <div align="center" > <hr width="400" /> </div>
