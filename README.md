@@ -1,7 +1,7 @@
 <h2 align="center"><i>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, myself Mohit</i> <img src = "https://c.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" width="32px"></h2> 
 <h3 align="center">I'm a B.Tech Student📚, who is Enhancing as a Web Developer👨‍💻</h3>
 
-<div align="center" > <hr /> </div>
+<div align="center" > <hr width="80%" /> </div>
 
 <h3 align="center">Connect with me (📲 || 💻)</h3>
 <p align="center">
@@ -13,7 +13,7 @@
 <div align="center" > <hr width="50%" /> </div>
 
 
-- 🌱 I’m currently explorin **"React"** <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" width="120" align="right">
+- 🌱 I’m currently exploring **"React"** <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" width="120" align="right">
 
 - 📫 How to reach me : **ahirwalmohit3216@gmail.com**
 
