@@ -1,7 +1,7 @@
 <h2 align="center"><i>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, myself Mohit</i> <img src = "https://c.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" width="32px"></h2> 
 <h3 align="center">I'm a B.Tech Student📚, who is Enhancing as a Web Developer👨‍💻</h3>
 
-<div align="center" > <hr width="400" /> </div>
+<div align="center" > <hr /> </div>
 
 <h3 align="center">Connect with me (📲 || 💻)</h3>
 <p align="center">
@@ -9,10 +9,11 @@
 <a href="https://instagram.com/moh17.09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moh17.09" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/moh1709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moh1709" height="30" width="40" /></a>
 </p>
-<div align="center" > <hr width="400" /> </div>
+
+<div align="center" > <hr width="50%" /> </div>
 
 
-- 🌱 I’m currently exploring **React** 
+- 🌱 I’m currently explorin **"React"** <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" width="120" align="right">
 
 - 📫 How to reach me : **ahirwalmohit3216@gmail.com**
 
