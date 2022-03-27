@@ -11,8 +11,7 @@
 </p>
 
 <div align="center" > <hr width="50%" /> </div>
-<h4 align="center">A <u>MERN</u> stack Developer, for creating Responsive && Full stack Applications 💻</h4>
-
+<h3 align="center"> MERN Stack Developer, for creating Responsive && Full stack Applications 💻</h3>
 
 - 🌱 I’m currently exploring **"React Native"** <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" width="120" align="right">
 
