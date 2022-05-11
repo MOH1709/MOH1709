@@ -5,7 +5,7 @@
 
 <h3 align="center">Connect with me (📲 || 💻)</h3>
 <p align="center">
-<a href="https://linkedin.com/in/moh1709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moh1709" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohit-ahirwal-2a3418216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moh1709" height="30" width="40" /></a>
 <a href="https://instagram.com/moh17.09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moh17.09" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/moh1709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moh1709" height="30" width="40" /></a>
 </p>
