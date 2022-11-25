@@ -13,6 +13,8 @@
 <div align="center" > <hr width="50%" /> </div>
 <h3 align="center">Full Stack Application Developer 💻</h3>
 
+- 💼 Working as a Full Stack Developer at **"Web Brains Technologies"** &nbsp;&nbsp; [June 2022 - working] 
+
 - 🌱 I’m currently exploring **"Angular"** <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" width="120" align="right">
 
 - 📫 How to reach me : **ahirwalmohit3216@gmail.com**
