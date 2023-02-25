@@ -38,7 +38,7 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp; 
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg" alt="nextjs" width="40" height="40"/> </a> &nbsp; 
    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  &nbsp;
-   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://spng.pngfind.com/pngs/s/62-626352_png-format-flask-python-logo-transparent-png.png" alt="redux" width="40" height="40"/> </a>  &nbsp;
+   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://spng.pngfind.com/pngs/s/62-626352_png-format-flask-python-logo-transparent-png.png" alt="flask" width="40" height="40"/> </a>  &nbsp;
   
   <hr/>
   <h3 align="left">Platforms :</h3>  
