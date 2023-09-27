@@ -1,5 +1,5 @@
 <h2 align="center"><i>Hey there 🙋‍♂️, myself Mohit</i> 🤝</h2> 
-<h3 align="center">I'm a B.Tech Student📚, who is Enhancing as a Web Developer👨‍💻</h3>
+<h3 align="center">Full Stack Developer 👨‍💻</h3>
 
 <div align="center" > <hr width="80%" /> </div>
 
@@ -14,9 +14,9 @@
 
 - 💼 Working as a Full Stack Developer at **"Web Brains Technologies"** &nbsp;&nbsp; [June 2022 - working] 
 
-- 🌱 I’m currently exploring **"Next JS"** <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" width="120" align="right">
+- 🌱 I’m currently exploring **"Artificial Intelligence"** <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" width="120" align="right">
 
-- 📫 How to reach me : **ahirwalmohit1709@gmail.com**
+- 📫 How to reach me: **ahirwalmohit1709@gmail.com**
 
 <hr/>
   <img align="right"  width="50%" src="https://perfectwebservices.com/wp-content/uploads/2019/10/responsive-gif.gif" />
