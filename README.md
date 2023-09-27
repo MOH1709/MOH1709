@@ -10,7 +10,6 @@
 </p>
 
 <div align="center" > <hr width="50%" /> </div>
-<h3 align="center">Full Stack Application Developer 💻</h3>
 
 - 💼 Working as a Full Stack Developer at **"Web Brains Technologies"** &nbsp;&nbsp; [June 2022 - working] 
 
