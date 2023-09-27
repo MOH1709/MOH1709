@@ -1,5 +1,5 @@
 <h2 align="center"><i>Hey there 🙋‍♂️, myself Mohit</i> 🤝</h2> 
-<h3 align="center">Full Stack Developer 👨‍💻</h3>
+<h3 align="center">I am a Full Stack Developer. 👨‍💻</h3>
 
 <div align="center" > <hr width="80%" /> </div>
 
