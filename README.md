@@ -12,7 +12,7 @@
 
 <div align="center" > <hr width="50%" /> </div>
 
-- 💼 Working as a Full Stack Developer at **"MobiOffice"** &nbsp;&nbsp; [June 2022 - working] 
+- 💼 Working as a Full Stack Developer at **"MobiOffice"** &nbsp;&nbsp; [April 2024 - working] 
 
 - 🌱 I’m currently exploring **"Artificial Intelligence"** <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" width="120" align="right">
 
